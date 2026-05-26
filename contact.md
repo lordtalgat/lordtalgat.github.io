@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-[Home](.) | [About](about) | [Projects](projects)
+[Home](.) | [About](./about) | [Projects](./projects)
 
 ---
 
