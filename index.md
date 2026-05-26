@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[About](./about) | [Projects](./projects) | [Contact](./contact)
+[About](about) | [Projects](projects) | [Contact](contact)
 
 ---
 
