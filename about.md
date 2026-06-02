@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Home](index) | [Projects](projects) | [Contact](contact)
+---
+layout: default
+title: About
+permalink: /about/
+---
+
+[Home](/) | [Projects](/projects/) | [Contact](/contact/)
 
 ---
 

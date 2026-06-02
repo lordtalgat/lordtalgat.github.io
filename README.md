@@ -1,8 +1,11 @@
+
 ---
 layout: default
+title: Main
+permalink: /
 ---
 
-[About](about) | [Projects](projects) | [Contact](contact) | [Test](test)
+[About](/about/) | [Projects](/projects/) | [Contact](/contact/)
 
 ---
 
