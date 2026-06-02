@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[About](https://lordtalgat.github.io/about/) | [Projects](https://lordtalgat.github.io/projects/) | [Contact](https://lordtalgat.github.io/contact/)
+[Home](https://lordtalgat.github.io) | [Projects](https://lordtalgat.github.io/projects/) | [Contact](https://lordtalgat.github.io/contact/)
 
 ---
 
