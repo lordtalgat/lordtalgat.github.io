@@ -10,6 +10,12 @@ permalink: /projects/
 
 ## Projects
 
+### EPAM Systems
+
+Demonstrated experience as a Software Engineer with significant leadership or lead-level responsibility on complex projects. Expertise in Scala and/or Java, with a strong grasp of both object-oriented and functional programming paradigms. Hands-on experience with AWS services, particularly EKS and serverless architectures, in production environments. Proficiency in database technologies, specifically MongoDB, including indexing, aggregation, and performance tuning. Deep understanding of containerization and orchestration using Kubernetes, including service discovery and config management. Proven experience with GraphQL and building resilient, high-performance APIs. Familiarity with CI/CD practices and GitHub Actions for automated delivery pipelines. Experience with workflow management tools like Apache Airflow and scripting in Python for data pipeline development. Excellent communication, problem-solving, and leadership skills, with a track record of driving technical decisions.
+
+**Technologies:** Scala 2.13/3.0, Java 17, AWS (S3, SQS, SNS, EKS), MongoDB, Kubernetes, GitHub Actions, GraphQL, Apache Airflow, Python.
+
 ### Axoni
 
 Developed complex business logic using Scala and Java with ZIO and Cats, enhancing the scalability and maintainability of the system. Implemented integration of Apache Kafka topics in Scala to facilitate real-time data streaming and processing. Implemented integration of Spring framework on Java with Hibernate. Integrated GitLab CI/CD scripts to streamline build, test, and deployment processes. Utilized Spring Boot and Spring Kafka/Web as the foundation for developing secure and scalable applications. Authored YAML configurations for running Docker and Docker Compose. Developed comprehensive unit and integration tests to validate the accuracy and reliability of the migrated codebase. Executed PostgreSQL script implementations to manage and manipulate database structures and data.

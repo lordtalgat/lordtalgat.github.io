@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Contacts
 permalink: /contact/
 ---
 
@@ -8,7 +8,7 @@ permalink: /contact/
 
 ---
 
-## Contact
+## Contacts
 
 If you would like to get in touch, feel free to reach out via email or follow me on my social media accounts.
 
