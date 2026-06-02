@@ -5,7 +5,7 @@ title: Main
 permalink: /
 ---
 
-[About](/about/) | [Projects](/projects/) | [Contact](/contact/)
+[About](https://lordtalgat.github.io/about/) | [Projects](https://lordtalgat.github.io/projects/) | [Contact](https://lordtalgat.github.io/contact/)
 
 ---
 

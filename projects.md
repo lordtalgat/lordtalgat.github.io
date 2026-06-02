@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-[Home](/) | [About](/about/) | [Contact](/contact/)
+[Home](https://lordtalgat.github.io) | [About](https://lordtalgat.github.io/about/) | [Contact](https://lordtalgat.github.io/contact/)
 
 ---
 

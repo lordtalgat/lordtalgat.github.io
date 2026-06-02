@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-[Home](/) | [About](/about/) | [Projects](/projects/)
+[Home](https://lordtalgat.github.io) | [About](https://lordtalgat.github.io/about/) | [Projects](https://lordtalgat.github.io/projects/)
 
 ---
 
